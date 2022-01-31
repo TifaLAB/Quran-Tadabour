@@ -31,7 +31,7 @@ So we keep in mind when developping Quran-Tadabor App to be follow the policies 
 
 <h3>Inappropriate Content :</h3>
   We ensure that Quran-Tadabor App follows the created standards defining and prohibiting content that is harmful or inappropriate for our users by Google Play.
-
+<br/>
 We also ensure that Quran-Tadabor App does not contain ANY content of the following :
 
 <h4>Sexual Content and Profanity</h4>
