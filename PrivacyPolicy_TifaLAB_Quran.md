@@ -146,6 +146,8 @@ Examples of common violations :
    Parent guides or device management apps that are only intended for use by parents or care-givers
 
 
+
+<hr/>
 Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 
