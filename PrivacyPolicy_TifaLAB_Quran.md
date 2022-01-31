@@ -149,6 +149,6 @@ Examples of common violations :
 
 <hr/>
 Contact Us
-If you have any questions about this Privacy Policy, You can contact us:
+If you have any questions about our Privacy Policy, You can contact us:
 
 By email: tifalabcustomersupp@gmail.com
