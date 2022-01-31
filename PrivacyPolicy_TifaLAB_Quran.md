@@ -19,7 +19,7 @@ Protecting kids and safeguarding their privacy is a responsibility we all share.
 So we keep in mind when developping Quran-Tadabor App to be follow the policies and requirements  under <strong>Families Policy Requirements </strong> (and the <strong> Designed for Families Program </strong> Requirements .
 
 <h4> Restricted Content </h4>
-   We ensure that Quran-Tadabor App does not contain any of the following and comply with these content policies and with local laws :
+   We ensure that Quran-Tadabor App does not contain any of the following Restricted Content  and  our Application is complied with these content policies and with local laws :
 
 <h3>Child Endangerment :</h3>
      We ensure that Quran-Tadabor App does not contain ANY content that sexualizes minors are subject to immediate removal from the Store,
